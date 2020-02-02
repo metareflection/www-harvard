@@ -21,8 +21,9 @@ The [metareflection.club](https://metareflection.club) researches all aspects of
 
 ## Programming Languages
 
-- Coq, SMTLIB
-- Scala, OCaml, F#, Dafny, F*, SML
+- Coq
+- SMTLIB, Dafny, F*
+- Scala, OCaml, F#, SML
 - miniKanren, Prolog
 - Scheme, Common Lisp, Clojure
 - C, Rust
