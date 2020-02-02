@@ -1,6 +1,4 @@
-----
-title: null
-----
+# metareflection.club
 
 The [metareflection.club](https://metareflection.club) researches all aspects of static and dynamic reflection, programs / processes manipulating programs / processes.
 
