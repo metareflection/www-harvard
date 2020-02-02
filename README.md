@@ -10,6 +10,8 @@ The [metareflection.club](https://metareflection.club) researches all aspects of
 - Neuro-symbolic bijections
 - Modular verification
 - Synthesizing synthesis
+- Joining relational programming and SMT (Satisfiability Modulo Theories) solving
+- Unifying probabilistic and constraint/logic programming
 
 ## Learning Projects
 
@@ -19,5 +21,6 @@ The [metareflection.club](https://metareflection.club) researches all aspects of
 
 - Coq, SMTLIB
 - Scala, OCaml
+- miniKanren, Prolog
 - Scheme, Common Lisp, Clojure
 - C, Rust
