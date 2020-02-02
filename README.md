@@ -1,4 +1,4 @@
 
 ## Projects
 
-- [PAIP](paip.metareflection.club)
+- [PAIP](http://paip.metareflection.club)
