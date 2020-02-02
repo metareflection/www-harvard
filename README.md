@@ -8,7 +8,8 @@ The [metareflection.club](https://metareflection.club) researches all aspects of
 - Theory (semantics) and practice (architectures, examples) of dynamic reflection
 - Applications of computational reflection to learning theories in cognitive science and psychology
 - Neuro-symbolic bijections
-- Simplifying synthesis
+- Modular verification
+- Synthesizing synthesis
 
 ## Learning Projects
 
