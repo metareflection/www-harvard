@@ -2,7 +2,7 @@
 title: null
 ----
 
-The [metareflection.club](metareflection.club) researches all aspects of static and dynamic reflection, programs / processes manipulating programs / processes.
+The [metareflection.club](https://metareflection.club) researches all aspects of static and dynamic reflection, programs / processes manipulating programs / processes.
 
 ## Research Projects
 
