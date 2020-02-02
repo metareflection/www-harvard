@@ -7,5 +7,3 @@ github:
   owner.name: metareflection.club
   owner_url: https://metareflection.club
   is_project_page: true
-include:
-  - README.md
