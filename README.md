@@ -13,3 +13,10 @@ The [metareflection.club](https://metareflection.club) researches all aspects of
 ## Learning Projects
 
 - [PAIP](http://paip.metareflection.club)
+
+## Programming Languages
+
+- Coq, SMTLIB
+- Scala, OCaml
+- Scheme, Common Lisp
+- C, Rust
