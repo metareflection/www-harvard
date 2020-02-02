@@ -18,5 +18,5 @@ The [metareflection.club](https://metareflection.club) researches all aspects of
 
 - Coq, SMTLIB
 - Scala, OCaml
-- Scheme, Common Lisp
+- Scheme, Common Lisp, Clojure
 - C, Rust
