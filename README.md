@@ -7,6 +7,7 @@ The [metareflection.club](https://metareflection.club) researches all aspects of
 - Theory of effectful multi-stage programming
 - Theory (semantics) and practice (architectures, examples) of dynamic reflection
 - Applications of computational reflection to learning theories in cognitive science and psychology
+- Reflective Human-Computer Interaction
 - Neuro-symbolic bijections
 - Modular verification
 - Synthesizing synthesis
