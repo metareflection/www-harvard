@@ -24,3 +24,8 @@ The [metareflection.club](https://metareflection.club) researches all aspects of
 - miniKanren, Prolog
 - Scheme, Common Lisp, Clojure
 - C, Rust
+
+## Motto
+
+- reflect to internalize
+
