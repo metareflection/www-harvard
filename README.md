@@ -10,6 +10,7 @@ The [metareflection.club](https://metareflection.club) researches all aspects of
 - Reflective Human-Computer Interaction
 - Neuro-symbolic bijections
 - Modular verification
+- Reasoning over knowledge graphs
 - Synthesizing synthesis
 - Joining relational programming and SMT (Satisfiability Modulo Theories) solving
 - Unifying probabilistic and constraint/logic programming
