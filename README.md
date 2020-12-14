@@ -21,6 +21,7 @@ The [metareflection.club](https://metareflection.club) researches all aspects of
 - Scala, OCaml, F#, SML
 - miniKanren, Prolog
 - Scheme, Common Lisp, Clojure
+- Python
 - C, Rust
 
 ## Motto
