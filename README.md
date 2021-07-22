@@ -27,5 +27,6 @@ The [metareflection.club](https://metareflection.club) researches all aspects of
 
 ## Motto
 
-- reflect to internalize
+- Reflect to internalize.
+- The rules of the game are part of the game.
 
