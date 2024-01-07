@@ -12,8 +12,6 @@ The [metareflection.club](https://metareflection.club) researches all aspects of
 - Reasoning over knowledge graphs
 - Joining relational programming and SMT (Satisfiability Modulo Theories) solving
 - Unifying probabilistic and constraint/logic programming
-- Automating (chip) design
-- Automating (biology) protocols
 
 ## Programming Languages
 
