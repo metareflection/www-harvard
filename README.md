@@ -2,6 +2,8 @@
 
 The [metareflection.club](/) is led by Prof. [Nada Amin](https://namin.seas.harvrd.edu) at Harvard SEAS.
 
+## [People](people)
+
 ## [Research](research)
 
 ## [Code](code)
