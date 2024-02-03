@@ -1,6 +1,10 @@
 # metareflection.club
 
+The [metareflection.club](/) is led by Prof. [Nada Amin](https://namin.seas.harvrd.edu) at Harvard SEAS.
+
 ## [Research](research)
+
+## [Code](code)
 
 ## OpenAI ChatGPT GPTs
 
