@@ -2,7 +2,7 @@
 
 ## [Research](research)
 
-## ChatGPT GPTs
+## OpenAI ChatGPT GPTs
 
 - [Dafny Assistant](https://chat.openai.com/g/g-JAUZ1i49Q-dafny-assistant)
   - [example](https://chat.openai.com/share/2874c7fb-6b32-4124-b695-c49dac0cd2f6)
