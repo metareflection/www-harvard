@@ -7,3 +7,4 @@
 - [Z3 Liaison](https://chat.openai.com/g/g-qcpbgz77s-z3-liaison)
   - [example](https://chat.openai.com/share/a05100f6-c5ea-424a-9c61-26d289779ca4) taken from [SatLM](https://arxiv.org/abs/2305.09656)
 - [Z3 MaxSAT Liaison](https://chat.openai.com/g/g-VhwH3lcNH-z3-maxsat-liasion)
+- [template to make a ChatGPT GPT action](https://github.com/namin/io-chatgpt.livecode.ch/tree/main/deploy)
