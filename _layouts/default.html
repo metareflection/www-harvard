@@ -2,15 +2,6 @@
 <html lang="{{ site.lang | default: "en-US" }}">
   <head>
 
-    {% if site.google_analytics %}
-      <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"></script>
-      <script>
-        window.dataLayer = window.dataLayer || [];
-        function gtag(){dataLayer.push(arguments);}
-        gtag('js', new Date());
-        gtag('config', '{{ site.google_analytics }}');
-      </script>
-    {% endif %}
     <meta charset="UTF-8">
 
 {% seo %}
@@ -45,7 +36,10 @@ As the symbol of love in heaven,
       {{ content }}
 
       <footer class="site-footer">
-        <center><a href="mailto:club@metareflection.club">club@metareflection.club</a></center>
+  <div id="branding_footer">
+		<div class="branding-container">
+	    <div class="copyright"><span class="harvard-copyright">Copyright &copy; 2024 The President and Fellows of Harvard College</span>  <br/> <a href="https://accessibility.harvard.edu/" >Accessibility</a> | <a href="https://accessibility.huit.harvard.edu/digital-accessibility-policy" >Digital Accessibility</a> | <a href="https://www.harvard.edu/copyright-issue/" >Report Copyright Infringement</a></div>		</div>
+  </div>
       </footer>
     </main>
   </body>

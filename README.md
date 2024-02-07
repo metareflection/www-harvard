@@ -1,6 +1,6 @@
-# metareflection.club
+# metareflection lab at Harvard
 
-The [metareflection.club](/) is led by Prof. [Nada Amin](https://namin.seas.harvard.edu) at Harvard SEAS.
+The metareflection lab is led by Prof. [Nada Amin](https://namin.seas.harvard.edu) at Harvard SEAS.
 
 ## [People](people)
 
