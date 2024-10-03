@@ -8,6 +8,8 @@
 - [Anastasiya Kravchuk-Kirilyuk](https://akravc.github.io) (PhD Student since Fall 2020)
 - [Tyler Holloway](https://github.com/htoyll) (PhD Student co-advised since Spring 2023)
 - [Joey Velez-Ginorio](http://web.mit.edu/joeyv/www) (Visiting PhD Student since Fall 2019)
+- [Dennis Du](https://github.com/DennisD1122) (Undergraduate Researcher since Fall 2024)
+- [Melissa Wu](https://github.com/mzwu) (Undergraduate Researcher since Fall 2024)
 - [Jack Madden](https://github.com/jmadden12) (Undergraduate Researcher for Summer 2024)
 - [Jake Ginesin](https://github.com/JakeGinesin) (Undergraduate Researcher for Summer 2024)
 - [Michel Arab](https://github.com/michelarab) (Undergraduate Researcher for Summer 2024)
