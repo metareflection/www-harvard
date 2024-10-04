@@ -2,7 +2,7 @@
 
 - [Nada Amin](http://namin.seas.harvard.edu) (Principal Investigator)
 - [Will Byrd](http://webyrd.net) (Associate)
-- [Matthew Retchin](https://www.mhr.ai) (SEAS Fellow since Spring 2024; PhD Student starting July 2024)
+- [Matthew Retchin](https://www.mhr.ai) (SEAS Fellow since Spring 2024; PhD Student since July 2024)
 - [Raffi Sanna](https://github.com/rvs31) (PhD Student since Summer 2023)
 - [Cameron Wong](https://camdar.io) (PhD Student since Fall 2022)
 - [Anastasiya Kravchuk-Kirilyuk](https://akravc.github.io) (PhD Student since Fall 2020)
