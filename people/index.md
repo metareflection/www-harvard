@@ -62,73 +62,73 @@
 - [Chloe Loughridge](https://github.com/ChloeL19)  
   _DafnyBench_
 - [Tarun Prasad](https://github.com/mtarunp)  
-  _“Guided Proof Search Using Large Language Models and Lemma Extraction in Coq”_
+  “_Guided Proof Search Using Large Language Models and Lemma Extraction in Coq_”
 - [Leonard Tang](https://github.com/leonardtang) (co-supervised with HT Kung)  
-  _“Automated and Flexible Stress-Testing for the Robustification of Large Language Model Systems”_
+  “_Automated and Flexible Stress-Testing for the Robustification of Large Language Model Systems_”
 - [Peter Chon](https://github.com/HelixAchaos) (co-supervised with Dimi Racordon)  
-  _“[Oxidize: A Step-Debugger for Static Semantics](https://2023.splashcon.org/details/iwaco-2023-papers/1/Oxidize-A-Step-Debugger-for-Static-Semantics)”_
+  “_[Oxidize: A Step-Debugger for Static Semantics](https://2023.splashcon.org/details/iwaco-2023-papers/1/Oxidize-A-Step-Debugger-for-Static-Semantics)_”
 - [Will Dey](https://github.com/wi11dey)  
-  _QuTiE: Universal, Declarative, and Differentiable Physics Simulation_
+  “_QuTiE: Universal, Declarative, and Differentiable Physics Simulation_”
 - [Ye Joo Han](https://github.com/yejoo104) (co-supervised with Gennaro Chierchia)  
-  _“Interpreting Language with Continuation-Based Semantics”_
+  “_Interpreting Language with Continuation-Based Semantics_”
 - [Lavanya Singh](https://github.com/lsingh123/) (co-supervised with William Cochran)  
-  _“[Automated Kantian Ethics](https://github.com/lsingh123/automatedkantianethics)”_  
+  “_[Automated Kantian Ethics](https://github.com/lsingh123/automatedkantianethics)_”  
   Hoopes Prize Award for bes undergraduate [thesis](https://dash.lib.harvard.edu/handle/1/37371736)
 - [Matthew Shabet](https://github.com/MatthewShabet)  
   “_An explanatory analysis of reaction-diffusion systems_”
 - [Joey Velez-Ginorio](https://www.seas.upenn.edu/~joeyv/) (MIT)  
-  _“Compositional desires as compositional programs”_
+  “_Compositional desires as compositional programs_”
 - [Lavanya Singh](https://github.com/lsingh123/)  
   “_Three Implementations of the Categorical Imperative_”
 - [Helena Abney-McPeek](https://github.com/helenaam)  
   “_Domain-Specific Programming Language for Representing a Process for Music Composition_”
 - [Laura Zharmukhametova](https://github.com/l-zharmukhametova)  
-  _“microKanren with Delayed Goals”_
+  “_microKanren with Delayed Goals_”
 - [Marissa Zheng](http://github.com/mzheng17)  
-  _“Investigating Migraine Treatments in mediKanren”_
+  “_Investigating Migraine Treatments in mediKanren_”
 - [Laura Zharmukhametova](https://github.com/l-zharmukhametova)  
-  “_Explorations in miniKanren”_
+  “_Explorations in miniKanren_”
 - [Marissa Zheng](http://github.com/mzheng17)  
-  _“Knowledge-Based Gene Ranking”_
+  “_Knowledge-Based Gene Ranking_”
 - [Marissa Zheng](http://github.com/mzheng17)  
-  _“mediKanren”_
+  “_mediKanren_”
 - [Katherine Zhang](https://github.com/19katz)  
-  _“mediKanren”_
+  “_mediKanren_”
 - [Pratap Singh](https://github.com/pratapsingh1729)  
-  _“Dynamic Reflection”_
+  “_Dynamic Reflection_”
 - [Teddy Liu](https://github.com/theodoretliu/)  
-  _“A Type System for Multidimensional Arrays”_
+  “_A Type System for Multidimensional Arrays_”
 - [Garrett Tanzer](https://github.com/gtanzer)  
-  _“Programming “Programming by Example” by Example”_
+  “_Programming “Programming by Example” by Example_”
 - [Alex Wendland](https://github.com/awendland)  
-  _“WebAssembly as a Multi-Language Platform”_
+  “_WebAssembly as a Multi-Language Platform_”
 
 ### at Cambridge, UK
 
 - [Michael Buch](https://github.com/Michael137/) (co-supervised with Alan Mycroft)  
-  _“Collapsing Heterogenous Towers of Interpreters”_
+  “_Collapsing Heterogenous Towers of Interpreters_”
 - [Yan Han](https://github.com/yan-h) (co-supervised with Neel Krishnaswami)  
-  _“Analyzing Music with Prefix Trees”_
+  “_Analyzing Music with Prefix Trees_”
 - [Niall Engan](https://github.com/NiallEgan)  
-  _“A Domain-Specific Language for Image Processing Pipelines”_
+  “_A Domain-Specific Language for Image Processing Pipelines_”
 - [Joey Velez-Ginorio](https://www.seas.upenn.edu/~joeyv/) (Oxford) (co-supervised with Daniel Kroening)  
-  _“Learning in System F”_
+  “_Learning in System F_”
 
 ### at EPFL
 
 - [Ruben Fiszel](https://github.com/rubenfiszel)  
-  _“Staged meta-programming, new LMS frontend and computation graphs”_
+  “_Staged meta-programming, new LMS frontend and computation graphs_”
 - [Samuel Grütter](https://github.com/samuelgruetter)  
-  _“Connecting Scala to DOT”_
+  “_Connecting Scala to DOT_”
 - [Fengyun Liu](https://github.com/liufengyun) (co-supervised with Sandro Stucki)  
-  _“Type-and-Effect Systems based on Capabilities”_
+  “_Type-and-Effect Systems based on Capabilities_”
 - [Fengyun Liu](https://github.com/liufengyun)  
-  _“Dependency Resolution through SAT Solvers”_
+  “_Dependency Resolution through SAT Solvers_”
 - [Valérian Pittet](https://github.com/vtpittet)  
-  _“Scala Music Generation”_
+  “_Scala Music Generation_”
 - [Samuel Grütter](https://github.com/samuelgruetter)  
-  _“Machine-checked typesafety proofs”_
+  “_Machine-checked typesafety proofs_”
 - [Daniel Espino](https://github.com/akathorn)  
-  _“Embedding Logical Frameworks in Scala”_
+  “_Embedding Logical Frameworks in Scala_”
 - [Samuel Grütter](https://github.com/samuelgruetter)  
-  _“Explorations of Type Systems”_
+  “_Explorations of Type Systems_”
