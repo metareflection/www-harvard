@@ -2,7 +2,7 @@
 
 The metareflection lab is led by Prof. [Nada Amin](https://namin.seas.harvard.edu) at Harvard SEAS.
 
-## [People](people) ([Join us!](https://metareflection.seas.harvard.edu/people/#joining))
+## [People](people#members) ([Join us!](people/#joining))
 
 ## [Research](research)
 
