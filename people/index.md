@@ -2,13 +2,13 @@
 
 ## Joining
 
-If you're an undergraduate at Harvard, I (Prof. Nada Amin) am happy to brainstorm and supervise a research project (CS91r, HCRP or KURE) or thesis around common interests. This could range from theory (a type system for 'X') to implementation (a domain-specific language for 'X'). I value previous experience in software engineering, machine learning, functional programming, logic programming, proof assistants, and your chosen domains of application. I offer projects to both students who have taken my classes and students who have not, though they may be different in nature.
+**Harvard undergraduates**: I am happy to brainstorm around shared interests and supervise research projects (CS91r, HCRP, KURE) or theses.
 
-If you're a prospective PhD student, please apply to SEAS and mention me in your application.
+**Prospective PhD Students**: Please apply to SEAS and mention me in your application.
 
-If you're a current researcher (PhD student, postdoc, faculty, ...), I am open to collaboration and co-supervision opportunities.
+**Current Researchers** (PhD students, postdocs, faculty): I welcome collaboration and co-supervision opportunities.
 
-If you're a member at large, I am happy to engage as well, time allowing.
+**Members at large**: I am happy to engage as time permits.
 
 ## Members
 
