@@ -1,5 +1,19 @@
 # People
 
+## Joining
+
+I (Prof. Nada Amin) am happy to brainstorm around shared interests.
+
+**Harvard undergraduates**: I am happy to supervise research projects (CS91r, HCRP, KURE) or theses.
+
+**Prospective PhD Students**: Please apply to SEAS and mention me in your application.
+
+**Current Researchers** (PhD students, postdocs, faculty): I welcome collaboration and co-supervision opportunities.
+
+**Members at large**: I am happy to engage as time permits.
+
+## Members
+
 - [Nada Amin](http://namin.seas.harvard.edu) (Principal Investigator)
 - [Will Byrd](http://webyrd.net) (Associate)
 - [Matthew Retchin](https://www.mhr.ai) (SEAS Fellow since Spring 2024; PhD Student since July 2024)
