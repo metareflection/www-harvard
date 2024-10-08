@@ -2,7 +2,9 @@
 
 ## Joining
 
-**Harvard undergraduates**: I am happy to brainstorm around shared interests and supervise research projects (CS91r, HCRP, KURE) or theses.
+I (Prof. Nada Amin) am happy to brainstorm around shared interests.
+
+**Harvard undergraduates**: I am happy to supervise research projects (CS91r, HCRP, KURE) or theses.
 
 **Prospective PhD Students**: Please apply to SEAS and mention me in your application.
 
