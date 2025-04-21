@@ -29,7 +29,7 @@ I (Prof. Nada Amin) am happy to brainstorm around shared interests.
 - [Jack Madden](https://github.com/jmadden12) (Undergraduate Researcher for Summer 2024)
 - [Jake Ginesin](https://github.com/JakeGinesin) (Undergraduate Researcher for Summer 2024)
 - [Michel Arab](https://github.com/michelarab) (Undergraduate Researcher for Summer 2024)
-- [Rhea Karty](https://github.com/Rhea-Eve) (Undergraduate Researcher for in 2024)
+- [Rhea Karty](https://github.com/Rhea-Eve) (Undergraduate Researcher in 2024)
 - [Katherine Liu](https://github.com/kemmaliu) (Undergraduate Researcher for Summer 2024)
 - [Joao Henrique Santos](https://github.com/joaohts) (Undergraduate Researcher in 2024)
 - [Iñaki Arango](https://github.com/inakineitor) (Undergraduate Researcher since Spring 2024)
