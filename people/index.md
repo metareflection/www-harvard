@@ -16,6 +16,7 @@ I (Prof. Nada Amin) am happy to brainstorm around shared interests.
 
 - [Nada Amin](http://namin.seas.harvard.edu) (Principal Investigator)
 - [Will Byrd](http://webyrd.net) (Associate)
+- [Dat Nguyen Thanh](https://github.com/datvo06) (Postdoc since January 2025, co-advised with Zenna Tavares)
 - [Matthew Retchin](https://www.mhr.ai) (SEAS Fellow since Spring 2024; PhD Student since July 2024)
 - [Raffi Sanna](https://github.com/rvs31) (PhD Student since Summer 2023)
 - [Cameron Wong](https://camdar.io) (PhD Student since Fall 2022)
