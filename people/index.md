@@ -83,7 +83,7 @@ I (Prof. Nada Amin) am happy to brainstorm around shared interests.
 ## Some Past Supervised Projects
 
 ###	at Harvard
-- [Ayush Noori](https://www.ayushnoori.com/) & [Iñaki Arango](https://github.com/inakineitor) (co-supervised by Will Byrd)
+- [Ayush Noori](https://www.ayushnoori.com/) & [Iñaki Arango](https://github.com/inakineitor) (co-supervised by Will Byrd)  
   “_Multi-objective generative AI for designing novel brain-targeting small molecules_“
 - [Chloe Loughridge](https://github.com/ChloeL19)  
   _DafnyBench_
