@@ -16,6 +16,7 @@ I (Prof. Nada Amin) am happy to brainstorm around shared interests.
 
 - [Nada Amin](http://namin.seas.harvard.edu) (Principal Investigator)
 - [Will Byrd](http://webyrd.net) (Associate)
+- [Paul Krogmeier](https://paulkrog.github.io/) (Postdoc since July 2025, co-advised with Walter Fontana)
 - [Dat Nguyen Thanh](https://github.com/datvo06) (Postdoc since January 2025, co-advised with Zenna Tavares)
 - [Matthew Retchin](https://www.mhr.ai) (SEAS Fellow since Spring 2024; PhD Student since July 2024)
 - [Raffi Sanna](https://github.com/rvs31) (PhD Student since Summer 2023)
@@ -23,6 +24,8 @@ I (Prof. Nada Amin) am happy to brainstorm around shared interests.
 - [Anastasiya Kravchuk-Kirilyuk](https://akravc.github.io) (PhD Student since Fall 2020)
 - [Tyler Holloway](https://github.com/htoyll) (PhD Student co-advised since Spring 2023)
 - [Joey Velez-Ginorio](http://web.mit.edu/joeyv/www) (Visiting PhD Student since Fall 2019)
+- Axel Soderquist (Undergraduate Researcher since Summer 2025)
+- Ragheb Abdin (Undergraduate Researcher since Summer 2025)
 - [Seager Hunt](https://github.com/seagerhunt) (Undergraduate Researcher since Summer 2025)
 - [Maxine Park](https://github.com/maxine-park) (Undergraduate Researcher since Summer 2025)
 - [Sophia Liu](https://github.com/sophiayliu) (Undergraduate Researcher since Summer 2025)
