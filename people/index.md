@@ -102,7 +102,7 @@ I (Prof. Nada Amin) am happy to brainstorm around shared interests.
   “_Interpreting Language with Continuation-Based Semantics_”
 - [Lavanya Singh](https://github.com/lsingh123/) (co-supervised with William Cochran)  
   “_[Automated Kantian Ethics](https://github.com/lsingh123/automatedkantianethics)_”  
-  Hoopes Prize Award for bes undergraduate [thesis](https://dash.lib.harvard.edu/handle/1/37371736)
+  Hoopes Prize awarded for best undergraduate [thesis](https://dash.lib.harvard.edu/handle/1/37371736)
 - [Matthew Shabet](https://github.com/MatthewShabet)  
   “_An explanatory analysis of reaction-diffusion systems_”
 - [Joey Velez-Ginorio](https://www.seas.upenn.edu/~joeyv/) (MIT)  
