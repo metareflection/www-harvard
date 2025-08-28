@@ -26,7 +26,7 @@ I (Prof. Nada Amin) am happy to brainstorm around shared interests.
 - [Anastasiya Kravchuk-Kirilyuk](https://akravc.github.io) (PhD Student since Fall 2020)
 - [Tyler Holloway](https://github.com/htoyll) (PhD Student co-advised since Spring 2023)
 - [Joey Velez-Ginorio](http://web.mit.edu/joeyv/www) (Visiting PhD Student since Fall 2019)
-- Axel Soderquist (Undergraduate Researcher since Summer 2025)
+- [Axel Soderquist](https://github.com/Axelpuff) (Undergraduate Researcher since Summer 2025)
 - Ragheb Abdin (Undergraduate Researcher for Summer 2025)
 - [Seager Hunt](https://github.com/seagerhunt) (Undergraduate Researcher for Summer 2025)
 - [Maxine Park](https://github.com/maxine-park) (Undergraduate Researcher since Summer 2025)
