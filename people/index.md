@@ -78,11 +78,11 @@ I (Prof. Nada Amin) am happy to brainstorm around shared interests.
 - [Yizhou Zhang](https://cs.uwaterloo.ca/~yizhou) (Postdoc for 2019 – 2020)
 - [Michael Buch](https://github.com/Michael137) (PhD Student for 2019 – 2020)
 - [Apoorv Jain](https://github.com/japoorv) (Visiting Undergraduate Researcher for Summer 2020)
-- [Kat Zhang](https://github.com/19kat) (Undergraduate Researcher for Summer 2020)
+- [Kat Zhang](https://github.com/19katz) (Undergraduate Researcher for Summer 2020)
 - [Teddy Liu](https://github.com/theodoretliu) (Undergraduate Researcher for 2019 – 2020)
-- [Pratap Singh](https://github.com/pratapsingh172) (Undergraduate Researcher for 2019 – 2020)
-- [Garrett Tanzer](https://github.com/gtanze) (Undergraduate Researcher for Spring 2020)
-- [Alex Wendland](https://github.com/awendlan) (Undergraduate Researcher for Spring 2020)
+- [Pratap Singh](https://github.com/pratapsingh1729) (Undergraduate Researcher for 2019 – 2020)
+- [Garrett Tanzer](https://github.com/gtanzer) (Undergraduate Researcher for Spring 2020)
+- [Alex Wendland](https://github.com/awendland) (Undergraduate Researcher for Spring 2020)
 
 ## Some Past Supervised Projects
 
