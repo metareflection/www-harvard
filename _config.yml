@@ -1,9 +1,9 @@
 theme: jekyll-theme-cayman
-title: metareflection.club
+title: metareflection.seas.harvard.edu
 description: 
 github:
-  repository.name: metareflection.club
+  repository.name: metareflection.seas.harvard.edu
   repository_url: https://github.com/metareflection
-  owner.name: metareflection.club
-  owner_url: https://metareflection.club
+  owner.name: metareflection.seas.harvard.edu
+  owner_url: https://metareflection.seas.harvard.edu
   is_project_page: true
