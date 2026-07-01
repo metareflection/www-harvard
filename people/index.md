@@ -26,6 +26,8 @@ I (Prof. Nada Amin) am happy to brainstorm around shared interests.
 - [Anastasiya Kravchuk-Kirilyuk](https://akravc.github.io) (PhD Student since Fall 2020)
 - [Tyler Holloway](https://github.com/htoyll8) (PhD Student co-advised since Spring 2023)
 - [Joey Velez-Ginorio](https://www.seas.upenn.edu/~joeyv/) (Visiting PhD Student since Fall 2019)
+- Samuel Leßmann (Undergraduate Researcher in Summer 2026)
+- Saketh Pilli (Undergraduate Researcher in Summer 2026)
 - [Saranya Singh](https://github.com/saranyasingh) (Undergraduate Researcher since Spring 2026)
 - Emma Harris (Undergraduate Researcher since Spring 2026)
 - Milligan Grinstead (Undergraduate Researcher since Fall 2025)
