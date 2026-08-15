@@ -23,7 +23,7 @@ I (Prof. Nada Amin) am happy to brainstorm around shared interests.
 - [Matthew Retchin](https://www.mhr.ai) (SEAS Fellow since Spring 2024; PhD Student since July 2024)
 - [Raffi Sanna](https://github.com/rvs314) (PhD Student since Summer 2023)
 - [Cameron Wong](https://camdar.io) (PhD Student since Fall 2022)
-- [Anastasiya Kravchuk-Kirilyuk](https://akravc.github.io) (PhD Student since Fall 2020)
+- [Anastasiya Kravchuk-Kirilyuk](https://akravc.github.io) (PhD Student, Fall 2020 to Spring 2026)
 - [Tyler Holloway](https://github.com/htoyll8) (PhD Student co-advised since Spring 2023)
 - [Joey Velez-Ginorio](https://www.seas.upenn.edu/~joeyv/) (Visiting PhD Student since Fall 2019)
 - [Samuel Leßmann](SamuelLess) (SEAS Fellow in Summer 2026)
