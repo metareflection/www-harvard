@@ -19,7 +19,7 @@ I (Prof. Nada Amin) am happy to brainstorm around shared interests.
 - [Paul Krogmeier](https://paulkrog.github.io/) (Postdoc since July 2025, co-advised with Walter Fontana)
 - [Dat Nguyen Thanh](https://github.com/datvo06) (Postdoc for 2025, co-advised with Zenna Tavares; associate since 2026)
 - [Simon Henniger](https://github.com/shenniger) (Undergraduate Researcher in Summer 2022, and Spring &amp; Summer 2024; PhD Student since Fall 2025)
-- [Haoyi Zeng](https://haoyizeng.github.io/) (PhD Student since Fall 2025, co-advised with Steve Chong)
+- [Haoyi Zeng](https://haoyizeng.github.io/) (PhD Student, Fall 2025 &amp; Spring 2026, co-advised with Steve Chong)
 - [Matthew Retchin](https://www.mhr.ai) (SEAS Fellow since Spring 2024; PhD Student since July 2024)
 - [Raffi Sanna](https://github.com/rvs314) (PhD Student since Summer 2023)
 - [Cameron Wong](https://camdar.io) (PhD Student since Fall 2022)
