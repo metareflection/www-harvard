@@ -16,7 +16,7 @@ I (Prof. Nada Amin) am happy to brainstorm around shared interests.
 
 - [Nada Amin](http://namin.seas.harvard.edu) (Principal Investigator)
 - [Will Byrd](http://webyrd.net) (Associate)
-- [Paul Krogmeier](https://paulkrog.github.io/) (Postdoc since July 2025, co-advised with Walter Fontana)
+- [Paul Krogmeier](https://paulkrog.github.io/) (Postdoc July 2025 to June 2026, co-advised with Walter Fontana)
 - [Dat Nguyen Thanh](https://github.com/datvo06) (Postdoc for 2025, co-advised with Zenna Tavares; associate since 2026)
 - [Simon Henniger](https://github.com/shenniger) (Undergraduate Researcher in Summer 2022, and Spring &amp; Summer 2024; PhD Student since Fall 2025)
 - [Haoyi Zeng](https://haoyizeng.github.io/) (PhD Student, Fall 2025 &amp; Spring 2026, co-advised with Steve Chong)
